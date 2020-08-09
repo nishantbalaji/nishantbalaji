@@ -1,8 +1,14 @@
 ### Hi there 👋
 My name's Nishant Balaji and I'm a Computer Engineering Student at UC San Diego. Here I will put the projects I have done and are working on. Check me out on [Linked in](https://www.linkedin.com/in/nishantbalaji/)!
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantBalaji)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **NishantBalaji/NishantBalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=NishantBalaji)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
