@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name's Nishant Balaji and I'm a Computer Engineering Student at UC San Diego. Here I will put the projects I have done and are working on. Check me out on (Linked in)[https://www.linkedin.com/in/nishantbalaji/]!
+My name's Nishant Balaji and I'm a Computer Engineering Student at UC San Diego. Here I will put the projects I have done and are working on. Check me out on [Linked in](https://www.linkedin.com/in/nishantbalaji/)!
 <!--
 **NishantBalaji/NishantBalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
