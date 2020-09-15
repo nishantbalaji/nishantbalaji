@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name's Nishant Balaji and I'm a Computer Engineering student at UC San Diego. Here I will put the projects I have done and are working on. Check me out on [Linked in](https://www.linkedin.com/in/nishantbalaji/) or on my [website](nishantbalaji.me)!!
+My name's Nishant Balaji and I'm a Computer Engineering student at UC San Diego. Here I will put the projects I have done and are working on. Check me out on [Linked in](https://www.linkedin.com/in/nishantbalaji/) or on my [website](http://nishantbalaji.me/)!
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantBalaji)](https://github.com/anuraghazra/github-readme-stats)
