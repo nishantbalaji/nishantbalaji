@@ -1,8 +1,11 @@
 ### Hi there 👋
-My name's Nishant Balaji and I'm a Computer Engineering student at UC San Diego. Here I will put the projects I have done and are working on. Check me out on [Linkedin](https://www.linkedin.com/in/nishantbalaji/) or on my [website](http://nishantbalaji.me/)!
+My name's Nishant Balaji and I'm a Computer Engineering student at UC San Diego. Here I will put the projects I have done and are working on. 
 
-- I'm currently working at [Engineers for Exploration](http://e4e.ucsd.edu/) and [NOMΛD](https://visitnomad.com/)
-
+- I'm currently working at:
+  - [NOMΛD](https://visitnomad.com/), a prop-tech SaaS startup disrupting the homesharing industry
+  - [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon
+- Contact me on my [Linkedin](https://www.linkedin.com/in/nishantbalaji/), or [email me](mailto:nishantb1130@gmail.com).
+- Check me out on my [website](http://nishantbalaji.me/)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantBalaji)](https://github.com/anuraghazra/github-readme-stats)
 
