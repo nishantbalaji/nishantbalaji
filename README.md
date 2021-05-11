@@ -8,7 +8,7 @@ My name's Nishant Balaji and I'm a Computer Engineering student at UC San Diego.
 - Contact me on my [Linkedin](https://www.linkedin.com/in/nishantbalaji/), or [email me](mailto:nishantb1130@gmail.com).
 - Check me out on my [website](http://nishantbalaji.me/)!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantBalaji)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
