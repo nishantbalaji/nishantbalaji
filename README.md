@@ -11,6 +11,7 @@ My name's Nishant Balaji and I'm a Computer Engineering student at UC San Diego.
 # Languages and Tools
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/44332326/126879024-6346aed9-f91d-43ec-8534-51dfe39a7547.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/44332326/127034527-735e1477-2277-448b-b334-1fff2c35d694.png" />
 <img align="left" alt="C" width="28px" src="https://user-images.githubusercontent.com/44332326/126879929-4ff551b8-1025-445b-b25d-e81f2aa8c8cd.png" />
 <img align="left" alt="C++" width="24px" src="https://user-images.githubusercontent.com/44332326/126880643-e4ac2a1d-f026-40ad-a56c-69196c676284.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/44332326/127032054-578b242c-0208-4820-b865-07ed5f57b108.png" />
