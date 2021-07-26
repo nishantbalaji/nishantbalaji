@@ -13,6 +13,7 @@ My name's Nishant Balaji and I'm a Computer Engineering student at UC San Diego.
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="C" width="28px" src="https://user-images.githubusercontent.com/44332326/126879929-4ff551b8-1025-445b-b25d-e81f2aa8c8cd.png" />
 <img align="left" alt="C++" width="24px" src="https://user-images.githubusercontent.com/44332326/126880643-e4ac2a1d-f026-40ad-a56c-69196c676284.png" />
+<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/44332326/127032054-578b242c-0208-4820-b865-07ed5f57b108.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -23,6 +24,10 @@ My name's Nishant Balaji and I'm a Computer Engineering student at UC San Diego.
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Atom" width="26px" src="https://user-images.githubusercontent.com/44332326/127031867-97712f98-847e-4e9d-9e19-917d81e441f4.png" />
+
+
+
 
 <br />
 
