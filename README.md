@@ -2,6 +2,7 @@
 
 ## I'm Nishant Balaji
 
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student)](https://git.io/typing-svg)
 
 I'm a Computer Engineering student at UC San Diego. Here I will put the projects I have done and are working on. 
@@ -40,9 +41,12 @@ I'm a Computer Engineering student at UC San Diego. Here I will put the projects
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbalaji&layout=compact&hide=css&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+# Quick Bits
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbalaji&layout=compact&hide=css&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nishantbalaji&hide_border=true)](https://git.io/streak-stats)
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nishantbalaji&hide_border=true&background=FFFFFF00&currStreakNum=FF924F&sideNums=B3B3B3&sideLabels=8F8F8F&dates=717171)](https://git.io/streak-stats)
 
 
 <!--
