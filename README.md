@@ -15,7 +15,19 @@ I'm a Computer Engineering student at UC San Diego. Here I will put the projects
 - Contact me on my [Linkedin](https://www.linkedin.com/in/nishantbalaji/), or [email me](mailto:nishantb1130@gmail.com).
 - Check me out on my [website](http://nishantbalaji.me/)!
 
-# Languages and Tools
+
+## Quick Bits
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbalaji&layout=compact&hide=css&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) 
+
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nishantbalaji&hide_border=true&background=FFFFFF00&currStreakNum=FF924F&sideNums=B3B3B3&sideLabels=8F8F8F&dates=717171)](https://git.io/streak-stats)
+
+</div>
+
+## Languages and Tools
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/44332326/126879024-6346aed9-f91d-43ec-8534-51dfe39a7547.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/44332326/127034527-735e1477-2277-448b-b334-1fff2c35d694.png" />
@@ -40,13 +52,6 @@ I'm a Computer Engineering student at UC San Diego. Here I will put the projects
 <br />
 
 <br />
-
-# Quick Bits
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbalaji&layout=compact&hide=css&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) 
-
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nishantbalaji&hide_border=true&background=FFFFFF00&currStreakNum=FF924F&sideNums=B3B3B3&sideLabels=8F8F8F&dates=717171)](https://git.io/streak-stats)
 
 
 <!--
