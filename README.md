@@ -17,8 +17,8 @@ I'm a second year Computer Engineering student at UC San Diego 🔱.
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbalaji&layout=compact&hide=css,jupyter%20notebook&langs_count=5&hide_border=true&card_width=450&bg_color=FFFFFF00&title_color=B3B3B3&text_color=B3B3B3)](https://github.com/anuraghazra/github-readme-stats) 
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbalaji&layout=compact&hide=css,jupyter%20notebook&langs_count=5&hide_border=true&card_width=450&bg_color=FFFFFF00&title_color=B3B3B3&text_color=B3B3B3)](https://github.com/anuraghazra/github-readme-stats) 
+ -->
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nishantbalaji&hide_border=true&background=FFFFFF00&currStreakNum=FF924F&sideNums=B3B3B3&sideLabels=8F8F8F&dates=717171)](https://git.io/streak-stats)
 
