@@ -1,5 +1,11 @@
 ### Hi there 👋
-My name's Nishant Balaji and I'm a Computer Engineering student at UC San Diego. Here I will put the projects I have done and are working on. 
+
+## I'm Nishant Balaji
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student)](https://git.io/typing-svg)
+
+I'm a Computer Engineering student at UC San Diego. Here I will put the projects I have done and are working on. 
+
 
 - I'm currently working at:
   - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon
@@ -36,6 +42,7 @@ My name's Nishant Balaji and I'm a Computer Engineering student at UC San Diego.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbalaji&layout=compact&hide=css&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nishantbalaji&hide_border=true)](https://git.io/streak-stats)
 
 
 <!--
