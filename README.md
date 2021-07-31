@@ -25,7 +25,8 @@ I'm a second year Computer Engineering student at UC San Diego 🔱.
 </div>
 
 ## Languages and Tools
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/44332326/126879024-6346aed9-f91d-43ec-8534-51dfe39a7547.png" />
+
+<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/44332326/127751758-e0718df9-046f-4adc-b77f-87907a99d8f8.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/44332326/127034527-735e1477-2277-448b-b334-1fff2c35d694.png" />
 <img align="left" alt="C" width="28px" src="https://user-images.githubusercontent.com/44332326/126879929-4ff551b8-1025-445b-b25d-e81f2aa8c8cd.png" />
@@ -46,7 +47,7 @@ I'm a second year Computer Engineering student at UC San Diego 🔱.
 
 ## Things I'm Learning
 <img align="left" alt="Rust" width="26px" src="https://user-images.githubusercontent.com/44332326/127751551-79ec900e-5fde-4510-b1a9-2df0aa0d36fb.png" />
-<img align="left" alt="Golang" width="26px" src="https://user-images.githubusercontent.com/44332326/127751646-931ea3a3-ac68-42b4-b9d5-3ff664234290.png" />
+<img align="left" alt="Golang" width="26px" src="https://user-images.githubusercontent.com/44332326/127751765-a035ec2f-3582-4117-99bb-bcad2ac74ff2.png" />
 
 <br />
 
