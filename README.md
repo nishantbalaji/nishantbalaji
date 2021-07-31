@@ -42,9 +42,11 @@ I'm a second year Computer Engineering student at UC San Diego 🔱.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Atom" width="26px" src="https://user-images.githubusercontent.com/44332326/127031867-97712f98-847e-4e9d-9e19-917d81e441f4.png" />
+<br />
 
-
-
+## Things I'm Learning
+<img align="left" alt="Rust" width="26px" src="https://user-images.githubusercontent.com/44332326/127751551-79ec900e-5fde-4510-b1a9-2df0aa0d36fb.png" />
+<img align="left" alt="Golang" width="26px" src="https://user-images.githubusercontent.com/44332326/127751646-931ea3a3-ac68-42b4-b9d5-3ff664234290.png" />
 
 <br />
 
