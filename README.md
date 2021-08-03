@@ -43,7 +43,13 @@ I'm a second year Computer Engineering student at UC San Diego 🔱.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Atom" width="26px" src="https://user-images.githubusercontent.com/44332326/127031867-97712f98-847e-4e9d-9e19-917d81e441f4.png" />
+<img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/44332326/127984598-11ad8e81-a31e-4a58-a175-051c5df8a7a7.png" />
+<img align="left" alt="AWS" width="26px" src="https://user-images.githubusercontent.com/44332326/127984688-846f0651-fba6-47e5-a948-6ea77e1d734a.png" />
+<img align="left" alt="GCP" width="26px" src="https://user-images.githubusercontent.com/44332326/127984766-ccf40810-40be-4485-948a-bbf7894e623b.png" />
+
 <br />
+
+
 
 ## Things I'm Learning
 <img align="left" alt="Rust" width="26px" src="https://user-images.githubusercontent.com/44332326/127751551-79ec900e-5fde-4510-b1a9-2df0aa0d36fb.png" />
