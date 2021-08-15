@@ -27,6 +27,7 @@ I'm a second year Computer Engineering student at UC San Diego 🔱.
 
 ## Languages and Tools
 
+### Languages
 <img align="left" alt="Java"       width="26px" src="https://user-images.githubusercontent.com/44332326/127751758-e0718df9-046f-4adc-b77f-87907a99d8f8.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/44332326/127034527-735e1477-2277-448b-b334-1fff2c35d694.png" />
@@ -41,11 +42,15 @@ I'm a second year Computer Engineering student at UC San Diego 🔱.
 <img align="left" alt="MongoDB"    width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git"        width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub"     width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br/>
 
+### Tools
 <img align="left" alt="Terminal"   width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="VS Code"    width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Atom"       width="26px" src="https://user-images.githubusercontent.com/44332326/127031867-97712f98-847e-4e9d-9e19-917d81e441f4.png" />
 <img align="left" alt="Docker"     width="26px" src="https://user-images.githubusercontent.com/44332326/127984598-11ad8e81-a31e-4a58-a175-051c5df8a7a7.png" />
+
+
 <img align="left" alt="GCP"        width="26px" src="https://user-images.githubusercontent.com/44332326/127984766-ccf40810-40be-4485-948a-bbf7894e623b.png" />
 <img align="left" alt="AWS"        width="26px" src="https://user-images.githubusercontent.com/44332326/129472177-4d60dd72-bf30-4e9f-bd67-ab99906c7c16.png" />  
 <br />
