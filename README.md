@@ -25,7 +25,6 @@ I'm a second year Computer Engineering student at UC San Diego 🔱.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbalaji&layout=compact&hide=css,jupyter%20notebook&langs_count=5&hide_border=true&card_width=450&bg_color=FFFFFF00&title_color=B3B3B3&text_color=B3B3B3)](https://github.com/anuraghazra/github-readme-stats) 
   
 
-
 </div>
 
 ## Languages and Tools
