@@ -14,7 +14,6 @@ I'm a second year Computer Engineering student at UC San Diego 🔱.
 - Check me out on my [website](http://nishantbalaji.me/)!
 
 
-
 ## Quick Bits
 
 
