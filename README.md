@@ -1,4 +1,4 @@
-# Hi! I'm Nishant Balaji 👋
+# Hi! I'm Nishant 👋
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student)](https://git.io/typing-svg)
