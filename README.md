@@ -13,9 +13,7 @@ I'm a second year Computer Engineering student at UC San Diego 🔱.
 - Contact me on my [Linkedin](https://www.linkedin.com/in/nishantbalaji/), or [email me](mailto:nishantb1130@gmail.com).
 - Check me out on my [website](http://nishantbalaji.me/)!
 
-
 ## Quick Bits
-
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align="center">
