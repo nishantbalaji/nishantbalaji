@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student)](https://git.io/typing-svg)
 
 
-
 I'm a second year Computer Engineering student at UC San Diego 🔱. I love working with computers in both software and hardware roles and learning new technologies. 
 
 - I'm currently working at:
