@@ -58,7 +58,7 @@ I'm a second year Computer Engineering student at UC San Diego 🔱. I love work
 ## Things I'm Learning
 <img align="left" alt="Rust" width="26px" src="https://user-images.githubusercontent.com/44332326/127751551-79ec900e-5fde-4510-b1a9-2df0aa0d36fb.png" />
 <img align="left" alt="Golang" height="22px" src="https://user-images.githubusercontent.com/44332326/127766564-63da864d-49d8-4543-b1ab-f27726e2a2bb.png" />
-
+NLP, Regex
 
 
 <br />
