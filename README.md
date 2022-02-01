@@ -8,7 +8,6 @@ I'm a second year Computer Engineering student at UC San Diego 🔱. I love work
 
 - I'm currently working at:  
   - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon
-  - 🏠 [NOMΛD](https://visitnomad.com/), a prop-tech SaaS startup disrupting the homesharing industry, as a tech lead.
   - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as an Events Coordinator.
   - 💡 [Triton Software Engineering (TSE)](https://tse.ucsd.edu/), as a developer.
 - Contact me on my [Linkedin](https://www.linkedin.com/in/nishantbalaji/), or [email me](mailto:nishantb1130@gmail.com).
@@ -16,6 +15,7 @@ I'm a second year Computer Engineering student at UC San Diego 🔱. I love work
 
 I previously was at:
  - 🛰 [NASA Goddard](https://www.nasa.gov/goddard) as a software engineering intern on the [EOSDIS](https://earthdata.nasa.gov/eosdis) team working to create a usage based data discovery tool using machine learning and natural language processing. 
+ - 🏠 [NOMΛD](https://visitnomad.com/), a prop-tech SaaS startup disrupting the homesharing industry, as a tech lead.
 <!--  - 💠 [ACM Dimensions](https://github.com/acmucsd), a upcoming conference aimed to explore the various facets of technology, as both a developer and logistics lead. -->
 
 ## Quick Bits
