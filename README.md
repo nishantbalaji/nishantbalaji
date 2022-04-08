@@ -30,7 +30,7 @@ I previously was at:
 
 ## Languages and Tools
 
-### Languages
+### Languages and Frameworks
 <img align="left" alt="Java"       width="26px" src="https://user-images.githubusercontent.com/44332326/127751758-e0718df9-046f-4adc-b77f-87907a99d8f8.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/44332326/127034527-735e1477-2277-448b-b334-1fff2c35d694.png" />
@@ -42,6 +42,9 @@ I previously was at:
 <img align="left" alt="Sass"       width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="React"      width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js"    width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Next.js"    width="26px" src="https://user-images.githubusercontent.com/44332326/162406699-27e24ae7-a663-4ae7-b32d-ed9f0b2263a2.png"/>
+<img align="left" alt="PostgreSQL" width="26px" src="https://user-images.githubusercontent.com/44332326/162406858-6579cede-5d13-4bcc-9a89-6263f29c5084.png"/>
+
 <br/>
 
 ### Tools
