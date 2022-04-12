@@ -9,7 +9,7 @@ I'm a second year Computer Engineering student at UC San Diego 🔱. I love work
 - I'm currently working at:  
   - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon
   - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as an Events Coordinator.
-  - 💡 [Triton Software Engineering (TSE)](https://tse.ucsd.edu/), as a developer.
+  - 💡 [Triton Software Engineering (TSE)](https://tse.ucsd.edu/), as a developer, building a platform for the [League of Amazing Programmers](https://www.jointheleague.org/).
 - Contact me on my [Linkedin](https://www.linkedin.com/in/nishantbalaji/), or [email me](mailto:nishantb1130@gmail.com).
 - Check me out on my [website](http://nishantbalaji.me/)!
 
