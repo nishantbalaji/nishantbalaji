@@ -7,7 +7,7 @@
 I'm a second year Computer Engineering student at UC San Diego 🔱. I love working with computers in both software and hardware roles and learning new technologies. This summer, I'll be at [NVIDIA](https://www.nvidia.com) on the hardware infrastructure team. 
 
 - I'm currently working at:  
-  - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as an Events Coordinator.
+  - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as the VP of Events.
   - 💡 [Triton Software Engineering (TSE)](https://tse.ucsd.edu/), as a developer, building a platform for the [League of Amazing Programmers](https://www.jointheleague.org/).
   - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon
 - Contact me on my [Linkedin](https://www.linkedin.com/in/nishantbalaji/), or [email me](mailto:nishantb1130@gmail.com).
