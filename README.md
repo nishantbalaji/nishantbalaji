@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student;Fullstack+Engineer)](https://git.io/typing-svg)
 
 
-I'm a second year Computer Engineering student at UC San Diego 🔱. I love working with computers in both software and hardware roles and learning new technologies. This summer, I'll be at 🖥️ [NVIDIA](https://www.nvidia.com) on the hardware infrastructure team. 
+I'm a second year Computer Engineering student at UC San Diego 🔱. I love working with computers in both software and hardware roles and learning new technologies.
 
 - I'm currently working at:
   - 🖥️ [NVIDIA](https://www.nvidia.com) on the hardware infrastructure team as a software engineering intern. 
