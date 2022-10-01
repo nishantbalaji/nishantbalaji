@@ -18,7 +18,7 @@ I'm a second year Computer Engineering student at UC San Diego 🔱. I love work
 <!--  - 💠 [ACM Dimensions](https://github.com/acmucsd), a upcoming conference aimed to explore the various facets of technology, as both a developer and logistics lead. -->
 
 - Contact me on my [Linkedin](https://www.linkedin.com/in/nishantbalaji/), or [email me](mailto:nishantb1130@gmail.com).
-- Check me out on my [website](http://nishantbalaji.me/)!
+- Check me out on my [website](http://nishantbalaji.com/)!
 
 ## Quick Bits
 
