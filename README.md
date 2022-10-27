@@ -8,14 +8,16 @@ I'm a second year Computer Engineering student at UC San Diego 🔱. I love work
 
 - I'm currently working at:
   - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as the VP of Events.
+    - I'm also on the [ECE Day committee](http://eceday.ucsd.edu/) to make an event that celebrates the spirit of Electrical and Computer Engineering!
   - 💡 [Triton Software Engineering (TSE)](https://tse.ucsd.edu/), as a developer, building a platform for the [League of Amazing Programmers](https://www.jointheleague.org/).
 
 - I previously was at:
-  - 🖥️ [NVIDIA](https://www.nvidia.com) on the hardware infrastructure team as a software engineering intern. 
+  - 🖥️ [NVIDIA](https://www.nvidia.com) on the hardware infrastructure team as a software engineering intern.
+    - I built a web based platform for CPU and GPU engineers to see the status of all their running tests 
   - 🛰 [NASA Goddard](https://www.nasa.gov/goddard) as a software engineering intern on the [EOSDIS](https://earthdata.nasa.gov/eosdis) team working to create a usage based data discovery tool using machine learning and natural language processing. 
-  - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon
+  - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon.
   - 🏠 [NOMΛD (acquired by WISH STR Enterprises)](https://visitnomad.com/), a prop-tech SaaS startup disrupting the homesharing industry, as a tech lead.
-<!--  - 💠 [ACM Dimensions](https://github.com/acmucsd), a upcoming conference aimed to explore the various facets of technology, as both a developer and logistics lead. -->
+  - 💠 [ACM Dimensions](https://github.com/acmucsd), a upcoming conference aimed to explore the various facets of technology, as both a developer and logistics lead.
 
 - Contact me on my [Linkedin](https://www.linkedin.com/in/nishantbalaji/), or [email me](mailto:nishantb1130@gmail.com).
 - Check me out on my [website](http://nishantbalaji.com/)!
