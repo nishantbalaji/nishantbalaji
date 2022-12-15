@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student;Fullstack+Engineer;Programmer)](https://git.io/typing-svg)
 
 
-I'm a second year Computer Engineering student at UC San Diego 🔱. I love working with computers in both software and hardware roles and learning new technologies.
+I'm a third year Computer Engineering student at UC San Diego 🔱. I love working with computers in both software and hardware roles and learning new technologies.
 
 - I'm currently working at:
   - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as the VP of Events.
