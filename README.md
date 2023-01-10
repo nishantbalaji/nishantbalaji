@@ -11,6 +11,10 @@ I'm a third year Computer Engineering student at UC San Diego 🔱. I love worki
     - I'm also on the [ECE Day committee](http://eceday.ucsd.edu/) to make an event that celebrates the spirit of Electrical and Computer Engineering!
   - 💡 [Triton Software Engineering (TSE)](https://tse.ucsd.edu/), as a developer, building a platform for the [League of Amazing Programmers](https://www.jointheleague.org/).
 
+- I'll be at: 
+  - 🖥️ [NVIDIA](https://www.nvidia.com) on the hardware infrastructure team as a software engineering intern in Spring 2023.
+  - 🎮 [Roblox](https://www.roblox.com/) as a software engineering intern in Summer 2023
+
 - I previously was at:
   - 🖥️ [NVIDIA](https://www.nvidia.com) on the hardware infrastructure team as a software engineering intern.
     - I built a web based platform for CPU and GPU engineers to see the status of all their running tests 
