@@ -7,19 +7,21 @@
 I'm a third year Computer Engineering student at UC San Diego 🔱. I love working with computers in both software and hardware roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
 
 - I'm currently working at:
-  - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as the VP of Events.
+  - 🎮 [Roblox](https://www.roblox.com/) as a software engineering intern.
+  - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as the President, and formerly the VP of Events.
+    - I'm hosting ACM's annual career fair, [SPACE](https://space.acmucsd.com)!
+    - I'm creating DiamondHacks, ACM's hackathon to help get students interested in coding and further their skills.
+    - I helped foster and create ACM's outreach program, where we help underpriviledged students in the local San Diego Community
     - I'm also on the [ECE Day committee](http://eceday.ucsd.edu/) to make an event that celebrates the spirit of Electrical and Computer Engineering!
-    - I'm the student org liason for the [ECE Alumni Board](https://ece.ucsd.edu), working to foster connections between student organizations and the department. 
-  - 💡 [Triton Software Engineering (TSE)](https://tse.ucsd.edu/), as a developer, building a platform for the [League of Amazing Programmers](https://www.jointheleague.org/).
-  - 🖥️ [NVIDIA](https://www.nvidia.com) on the hardware infrastructure group on the Security Team as a software engineering intern.
+    - I'm the student org liason for the [ECE Alumni Board](https://ece.ucsd.edu), working to foster connections between student organizations and the department.
 
-- I'll be at: 
-  - 🎮 [Roblox](https://www.roblox.com/) as a software engineering intern in Summer 2023.
-
+ 
 - I previously was at:
-  - 🖥️ [NVIDIA](https://www.nvidia.com) in the hardware infrastructure group on the Test Automation Team as a software engineering intern.
-    - I built a web based platform for CPU and GPU engineers to see the status of all their running tests 
-  - 🛰 [NASA Goddard](https://www.nasa.gov/goddard) as a software engineering intern on the [EOSDIS](https://earthdata.nasa.gov/eosdis) team working to create a usage based data discovery tool using machine learning and natural language processing. 
+  - 🖥️ [NVIDIA](https://www.nvidia.com) in the hardware infrastructure group on the Test Automation Team and then the Security Team as a software engineering intern.
+    - On the Test Automation team, I built a web based platform for CPU and GPU engineers to see the status of all their running tests
+    - On the Security team, I implemented observability on the security auditing platform, giving developers more insight onto the platform. 
+  - 🛰 [NASA Goddard](https://www.nasa.gov/goddard) as a software engineering intern on the [EOSDIS](https://earthdata.nasa.gov/eosdis) team working to create a usage based data discovery tool using machine learning and natural language processing.
+  -  💡 [Triton Software Engineering (TSE)](https://tse.ucsd.edu/), as a developer, building a platform for the [League of Amazing Programmers](https://www.jointheleague.org/).
   - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon.
   - 🏠 [NOMΛD (acquired by WISH STR Enterprises)](https://visitnomad.com/), a prop-tech SaaS startup disrupting the homesharing industry, as a tech lead.
   - 💠 [ACM Dimensions](https://github.com/acmucsd), a upcoming conference aimed to explore the various facets of technology, as both a developer and logistics lead.
