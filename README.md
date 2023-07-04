@@ -1,7 +1,7 @@
 # Hi! I'm Nishant 👋
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student;Fullstack+Engineer;Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student;Fullstack+Engineer;Programmer;Software+Engineer)](https://git.io/typing-svg)
 
 
 I'm a third year Computer Engineering student at UC San Diego 🔱. I love working with computers in both software and hardware roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
@@ -12,22 +12,21 @@ I'm a third year Computer Engineering student at UC San Diego 🔱. I love worki
     - I'm hosting ACM's annual career fair, [SPACE](https://space.acmucsd.com)!
     - I'm creating DiamondHacks, ACM's hackathon to help get students interested in coding and further their skills.
     - I helped foster and create ACM's outreach program, where we help underpriviledged students in the local San Diego Community
-    - I'm also on the [ECE Day committee](http://eceday.ucsd.edu/) to make an event that celebrates the spirit of Electrical and Computer Engineering!
     - I'm the student org liason for the [ECE Alumni Board](https://ece.ucsd.edu), working to foster connections between student organizations and the department.
 
  
 - I previously was at:
   - 🖥️ [NVIDIA](https://www.nvidia.com) in the hardware infrastructure group on the Test Automation Team and then the Security Team as a software engineering intern.
     - On the Test Automation team, I built a web based platform for CPU and GPU engineers to see the status of all their running tests
-    - On the Security team, I implemented observability on the security auditing platform, giving developers more insight onto the platform. 
+    - On the Security team, I implemented observability on the security auditing platform, giving developers more insight onto the platform.
+  - The [ECE Day committee](http://eceday.ucsd.edu/) to make an event that celebrates the spirit of Electrical and Computer Engineering!
   - 🛰 [NASA Goddard](https://www.nasa.gov/goddard) as a software engineering intern on the [EOSDIS](https://earthdata.nasa.gov/eosdis) team working to create a usage based data discovery tool using machine learning and natural language processing.
   -  💡 [Triton Software Engineering (TSE)](https://tse.ucsd.edu/), as a developer, building a platform for the [League of Amazing Programmers](https://www.jointheleague.org/).
   - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon.
   - 🏠 [NOMΛD (acquired by WISH STR Enterprises)](https://visitnomad.com/), a prop-tech SaaS startup disrupting the homesharing industry, as a tech lead.
-  - 💠 [ACM Dimensions](https://github.com/acmucsd), a upcoming conference aimed to explore the various facets of technology, as both a developer and logistics lead.
+  - 💠 [ACM Dimensions](https://github.com/acmucsd), a conference aimed to exploring the various facets of technology, as both a developer and logistics lead.
 
-- Contact me on my [Linkedin](https://www.linkedin.com/in/nishantbalaji/), or [email me](mailto:nishantb1130@gmail.com).
-- Check me out on my [website](http://nishantbalaji.com/)!
+[email](mailto:nishantb1130@gmail.com) • [website](http://nishantbalaji.com/) • [linkedin](https://www.linkedin.com/in/nishantbalaji/) • [devpost](https://devpost.com/nishantbalaji)
 
 ## Quick Bits
 
@@ -39,6 +38,7 @@ I'm a third year Computer Engineering student at UC San Diego 🔱. I love worki
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbalaji&layout=compact&hide=css,html,jupyter%20notebook&langs_count=5&hide_border=true&card_width=450&bg_color=FFFFFF00&title_color=B3B3B3&text_color=B3B3B3)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
 
+<!--
 ## Languages and Tools
 
 ### Languages and Frameworks
@@ -81,7 +81,7 @@ NLP, Regex
 
 <br />
 
-
+-->
 <!--
 [![Nishant's github stats](https://github-readme-stats.vercel.app/api?username=NishantBalaji&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 **NishantBalaji/NishantBalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
