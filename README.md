@@ -7,7 +7,7 @@
 I'm a third year Computer Engineering student at UC San Diego 🔱. I love working with computers in both software and hardware roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
 
 - I'm currently working at:
-  - 🎮 [Roblox](https://www.roblox.com/) as a software engineering intern.
+  - 🎮 [Roblox](https://www.roblox.com/) as a software engineering intern, working on bringing [OpenCloud](https://create.roblox.com/docs/cloud/open-cloud) to the [Memory Stores service](https://create.roblox.com/docs/cloud-services/memory-stores).
   - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as the President, and formerly the VP of Events.
     - I'm hosting ACM's annual career fair, [SPACE](https://space.acmucsd.com)!
     - I'm creating DiamondHacks, ACM's hackathon to help get students interested in coding and further their skills.
