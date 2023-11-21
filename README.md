@@ -7,7 +7,6 @@
 I'm a third year Computer Engineering student at UC San Diego 🔱. I love working with computers in both software and hardware roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
 
 - I'm currently working at:
-  - 🎮 [Roblox](https://www.roblox.com/) as a software engineering intern, working on bringing [OpenCloud](https://create.roblox.com/docs/cloud/open-cloud) to the [Memory Stores service](https://create.roblox.com/docs/cloud-services/memory-stores).
   - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as the President, and formerly the VP of Events.
     - I'm hosting ACM's annual career fair, [SPACE](https://space.acmucsd.com)!
     - I'm creating DiamondHacks, ACM's hackathon to help get students interested in coding and further their skills.
@@ -16,6 +15,7 @@ I'm a third year Computer Engineering student at UC San Diego 🔱. I love worki
 
  
 - I previously was at:
+  - 🎮 [Roblox](https://www.roblox.com/) as a software engineering intern, working on bringing [OpenCloud](https://create.roblox.com/docs/cloud/open-cloud) to the [Memory Stores service](https://create.roblox.com/docs/cloud-services/memory-stores).
   - 🖥️ [NVIDIA](https://www.nvidia.com) in the hardware infrastructure group on the Test Automation Team and then the Security Team as a software engineering intern.
     - On the Test Automation team, I built a web based platform for CPU and GPU engineers to see the status of all their running tests
     - On the Security team, I implemented observability on the security auditing platform, giving developers more insight onto the platform.
