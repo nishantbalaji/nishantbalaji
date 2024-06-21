@@ -24,6 +24,7 @@ I'm a fourth year Computer Engineering student at UC San Diego 🔱. I love work
     - On the Test Automation team, I built a web based platform for CPU and GPU engineers to see the status of all their running tests
     - On the Security team, I implemented observability on the security auditing platform, giving developers more insight onto the platform.
   - The [ECE Day committee](http://eceday.ucsd.edu/) to make an event that celebrates the spirit of Electrical and Computer Engineering!
+  - The [ECE Alumni Board](https://ece.ucsd.edu/) as the ECE Student Org Liason, working to connect student orgs with the Alumni Board. 
   - 🛰 [NASA Goddard](https://www.nasa.gov/goddard) as a software engineering intern on the [EOSDIS](https://earthdata.nasa.gov/eosdis) team working to create a usage based data discovery tool using machine learning and natural language processing.
   -  💡 [Triton Software Engineering (TSE)](https://tse.ucsd.edu/), as a developer, building a platform for the [League of Amazing Programmers](https://www.jointheleague.org/).
   
