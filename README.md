@@ -17,7 +17,7 @@ I'm a fourth year Computer Engineering student at UC San Diego 🔱. I love work
   - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as the President, and the VP of Events.
     - I'm hosting ACM's annual career fair, [SPACE](https://space.acmucsd.com)!
     - I founded [DiamondHacks](https://diamondhacks.acmucsd.com), ACM's hackathon to help get students interested in coding and further their skills, with over 200 attendees!
-    - I helped found ACM's outreach program, where we help underpriviledged students in the local San Diego Community
+    - I helped found ACM's [outreach program](https://outreach.acmucsd.com), where we help underpriviledged students in the local San Diego Community
     - I'm the student org liason for the [ECE Alumni Board](https://ece.ucsd.edu), working to foster connections between student organizations and the department.
   - 🎮 [Roblox](https://www.roblox.com/) as a software engineering intern, working on bringing [OpenCloud](https://create.roblox.com/docs/cloud/open-cloud) to the [Memory Stores service](https://create.roblox.com/docs/cloud-services/memory-stores).
   - 🖥️ [NVIDIA](https://www.nvidia.com) in the hardware infrastructure group on the Test Automation Team and then the Security Team as a software engineering intern.
