@@ -8,7 +8,7 @@ I'm a fourth year Computer Engineering student at UC San Diego 🔱. I love work
 
 - I'm currently working at:
   <!-- - Nowhere! Would love to work on new projects :) -->
-  - ⚛️[Protolab](https://protolab.ucsd.edu)
+  - ⚛️ [Protolab](https://protolab.ucsd.edu)
   - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon.
 
 
