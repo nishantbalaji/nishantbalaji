@@ -7,7 +7,9 @@
 I'm a fourth year Computer Engineering student at UC San Diego 🔱. I love working with computers in both software and hardware roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
 
 - I'm currently working at:
-  - Nowhere! Would love to work on new projects :)
+  <!-- - Nowhere! Would love to work on new projects :) -->
+  - ⚛️[Protolab](https://protolab.ucsd.edu)
+  - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon.
 
 
  
@@ -24,7 +26,7 @@ I'm a fourth year Computer Engineering student at UC San Diego 🔱. I love work
   - The [ECE Day committee](http://eceday.ucsd.edu/) to make an event that celebrates the spirit of Electrical and Computer Engineering!
   - 🛰 [NASA Goddard](https://www.nasa.gov/goddard) as a software engineering intern on the [EOSDIS](https://earthdata.nasa.gov/eosdis) team working to create a usage based data discovery tool using machine learning and natural language processing.
   -  💡 [Triton Software Engineering (TSE)](https://tse.ucsd.edu/), as a developer, building a platform for the [League of Amazing Programmers](https://www.jointheleague.org/).
-  - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon.
+  
   - 🏠 [NOMΛD (acquired by WISH STR Enterprises)](https://visitnomad.com/), a prop-tech SaaS startup disrupting the homesharing industry, as a tech lead.
   - 💠 [ACM Dimensions](https://github.com/acmucsd), a conference aimed to exploring the various facets of technology, as both a developer and logistics lead.
 
