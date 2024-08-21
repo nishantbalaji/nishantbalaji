@@ -31,6 +31,8 @@ I'm a fourth year Computer Engineering student at UC San Diego 🔱. I love work
   - 🏠 [NOMΛD (acquired by WISH STR Enterprises)](https://visitnomad.com/), a prop-tech SaaS startup disrupting the homesharing industry, as a tech lead.
   - 💠 [ACM Dimensions](https://github.com/acmucsd), a conference aimed to exploring the various facets of technology, as both a developer and logistics lead.
 
+In my freetime, I like to take photos, build mechanical keyboards and hang out and explore new foods!
+
 [email](mailto:nishantb1130@gmail.com) • [website](http://nishantbalaji.com/) • [linkedin](https://www.linkedin.com/in/nishantbalaji/) • [devpost](https://devpost.com/nishantbalaji)
 
 ## Quick Bits
