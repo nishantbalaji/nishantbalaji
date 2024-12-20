@@ -15,7 +15,8 @@ I'm a Computer Engineering master's student at UC San Diego 🔱. I love working
  
 - I previously was at:
   - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as the President, and the VP of Events.
-    - I'm hosting ACM's annual career fair, [SPACE](https://space.acmucsd.com)!
+    - I facilitated over 250 events over the school year for a community of 3.5k students!
+    - I hosted ACM's annual career fair, [SPACE](https://space.acmucsd.com)!
     - I founded [DiamondHacks](https://diamondhacks.acmucsd.com), ACM's hackathon to help get students interested in coding and further their skills, with over 200 attendees!
     - I helped found ACM's [outreach program](https://outreach.acmucsd.com), where we teach CS to underpriviledged students in the San Diego Community
     - I'm the student org liason for the [ECE Alumni Board](https://ece.ucsd.edu), working to foster connections between student organizations and the department.
