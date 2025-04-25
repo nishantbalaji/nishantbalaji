@@ -32,20 +32,22 @@ I'm a Computer Engineering master's student at UC San Diego 🔱. I love working
   - 🏠 [NOMΛD (acquired by WISH STR Enterprises)](https://visitnomad.com/), a prop-tech SaaS startup disrupting the homesharing industry, as a tech lead.
   - 💠 [ACM Dimensions](https://github.com/acmucsd), a conference aimed to exploring the various facets of technology, as both a developer and logistics lead.
 
-In my freetime, I like to take photos, build mechanical keyboards and hang out and explore new foods!
+In my freetime, I like to take photos, do pottery, visit nature, build mechanical keyboards and hang out and explore new foods!
 
 [email](mailto:nishantb1130@gmail.com) • [website](http://nishantbalaji.com/) • [linkedin](https://www.linkedin.com/in/nishantbalaji/) • [devpost](https://devpost.com/nishantbalaji)
-
+<!-- 
 ## Quick Bits
+-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<!--
 <div align="center">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nishantbalaji&hide_border=true&background=FFFFFF00&currStreakNum=FF924F&sideNums=B3B3B3&sideLabels=8F8F8F)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nishantbalaji&hide_border=true&background=FFFFFF00&currStreakNum=FF924F&sideNums=B3B3B3&sideLabels=8F8F8F)](https://git.io/streak-stats) 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantbalaji&layout=compact&hide=css,html,jupyter%20notebook&langs_count=5&hide_border=true&card_width=450&bg_color=FFFFFF00&title_color=B3B3B3&text_color=B3B3B3)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
-
+-->
 <!--
 ## Languages and Tools
 
