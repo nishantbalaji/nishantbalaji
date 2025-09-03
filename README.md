@@ -4,33 +4,33 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student;Fullstack+Engineer;Programmer;Software+Engineer;Leader)](https://git.io/typing-svg)
 
 
-I'm a Computer Engineering master's student at UC San Diego 🔱. I love working with computers in both software and hardware roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
+I'm a UC San Diego 🔱 computer engineering grad (BS '24 / MS '25)! I love working with computers in both software and hardware roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
 
 - I'm currently working at:
   <!-- - Nowhere! Would love to work on new projects :) -->
-  - ⚛️ [Protolab](https://protolab.ucsd.edu) as a Developer, researching co-generation with LLMs. 
-  - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon.
-
-
+  - 🚗 [Waymo](http://waymo.com/) as a software engineer on the perception team!
  
 - I previously was at:
   - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as the President, and the VP of Events.
     - I facilitated over 250 events over the school year for a community of 3.5k students!
     - I hosted ACM's annual career fair, [SPACE](https://space.acmucsd.com)!
     - I founded [DiamondHacks](https://diamondhacks.acmucsd.com), ACM's hackathon to help get students interested in coding and further their skills, with over 200 attendees!
-    - I helped found ACM's [outreach program](https://outreach.acmucsd.com), where we teach CS to underpriviledged students in the San Diego Community
-    - I'm the student org liason for the [ECE Alumni Board](https://ece.ucsd.edu), working to foster connections between student organizations and the department.
+    - I founded ACM's [outreach program](https://outreach.acmucsd.com), where we teach CS to underpriviledged students in the San Diego Community
+    - I was the student org liason for the [ECE Alumni Board](https://ece.ucsd.edu), working to foster connections between student organizations and the department.
   - 🎮 [Roblox](https://www.roblox.com/) as a software engineering intern, working on bringing [OpenCloud](https://create.roblox.com/docs/cloud/open-cloud) to the [Memory Stores service](https://create.roblox.com/docs/cloud-services/memory-stores).
   - 🖥️ [NVIDIA](https://www.nvidia.com) in the hardware infrastructure group on the Test Automation Team and then the Security Team as a software engineering intern.
     - On the Test Automation team, I built a web based platform for CPU and GPU engineers to see the status of all their running tests
     - On the Security team, I implemented observability on the security auditing platform, giving developers more insight onto the platform.
-  - The [ECE Day committee](http://eceday.ucsd.edu/) to make an event that celebrates the spirit of Electrical and Computer Engineering!
-  - The [ECE Alumni Board](https://ece.ucsd.edu/) as the ECE Student Org Liason, working to connect student orgs with the Alumni Board. 
   - 🛰 [NASA Goddard](https://www.nasa.gov/goddard) as a software engineering intern on the [EOSDIS](https://earthdata.nasa.gov/eosdis) team working to create a usage based data discovery tool using machine learning and natural language processing.
+  - The [ECE Day committee](http://eceday.ucsd.edu/) to make an event that celebrates the spirit of Electrical and Computer Engineering!
+  - The [ECE Alumni Board](https://ece.ucsd.edu/) as the ECE Student Org Liason, working to connect student orgs with the Alumni Board.
+  - ⚛️ [Protolab](https://protolab.ucsd.edu) as a Developer, researching co-generation with LLMs. 
   -  💡 [Triton Software Engineering (TSE)](https://tse.ucsd.edu/), as a developer, building a platform for the [League of Amazing Programmers](https://www.jointheleague.org/).
+  - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon.
   
   - 🏠 [NOMΛD (acquired by WISH STR Enterprises)](https://visitnomad.com/), a prop-tech SaaS startup disrupting the homesharing industry, as a tech lead.
   - 💠 [ACM Dimensions](https://github.com/acmucsd), a conference aimed to exploring the various facets of technology, as both a developer and logistics lead.
+
 
 In my freetime, I like to take [photos](https://www.instagram.com/nish.flicks/), do pottery, visit nature, build mechanical keyboards and hang out and explore new foods!
 
