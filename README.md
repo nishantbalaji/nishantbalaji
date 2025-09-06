@@ -24,7 +24,7 @@ I'm a UC San Diego 🔱 computer engineering grad (BS '24 / MS '25)! I love work
   - 🛰 [NASA Goddard](https://www.nasa.gov/goddard) as a software engineering intern on the [EOSDIS](https://earthdata.nasa.gov/eosdis) team working to create a usage based data discovery tool using machine learning and natural language processing.
   - The [ECE Day committee](http://eceday.ucsd.edu/) to make an event that celebrates the spirit of Electrical and Computer Engineering!
   - The [ECE Alumni Board](https://ece.ucsd.edu/) as the ECE Student Org Liason, working to connect student orgs with the Alumni Board.
-  - ⚛️ [Protolab](https://protolab.ucsd.edu) as a Developer, researching co-generation with LLMs. 
+  - ⚛️ [Protolab](https://protolab.ucsd.edu) as a Developer, researching co-generation with LLMs. Read our paper submitted to CI 25 [here](https://dl.acm.org/doi/full/10.1145/3715928.3737486).
   -  💡 [Triton Software Engineering (TSE)](https://tse.ucsd.edu/), as a developer, building a platform for the [League of Amazing Programmers](https://www.jointheleague.org/).
   - 🦜 [Engineers for Exploration](http://e4e.ucsd.edu/) on the [Acoustic Species ID Team](http://e4e.ucsd.edu/acoustic-species-identification), working to automatically label audio data from the Peruvian Amazon.
   
