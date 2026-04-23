@@ -1,24 +1,24 @@
 # Hi! I'm Nishant 👋
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student;Fullstack+Engineer;Programmer;Software+Engineer;Leader)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Fullstack+Engineer;Programmer;Software+Engineer)](https://git.io/typing-svg)
 
 
 I'm a UC San Diego 🔱 computer engineering grad (BS '24 / MS '25)! I love working with computers in both software and hardware roles and learning new technologies. I'm passionate about CS education and spreading CS to underrepresented communities!
 
 - I'm currently working at:
   <!-- - Nowhere! Would love to work on new projects :) -->
-  - 🚗 [Waymo](http://waymo.com/) as a software engineer on the perception team!
+  - 🚗 [Waymo](http://waymo.com/) as a software engineer on the Perception team!
  
 - I previously was at:
   - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as the President, and the VP of Events.
     - I facilitated over 250 events over the school year for a community of 3.5k students!
-    - I hosted ACM's annual career fair, [SPACE](https://space.acmucsd.com)!
-    - I founded [DiamondHacks](https://diamondhacks.acmucsd.com), ACM's hackathon to help get students interested in coding and further their skills, with over 200 attendees!
+    - I founded [DiamondHacks](https://diamondhacks.acmucsd.com), the largest hackathon in the San Diego area to help get students interested in coding and further their skills!
     - I founded ACM's [outreach program](https://outreach.acmucsd.com), where we teach CS to underpriviledged students in the San Diego Community
+    - I hosted ACM's annual career fair, [SPACE](https://space.acmucsd.com)!
     - I was the student org liason for the [ECE Alumni Board](https://ece.ucsd.edu), working to foster connections between student organizations and the department.
   - 🎮 [Roblox](https://www.roblox.com/) as a software engineering intern, working on bringing [OpenCloud](https://create.roblox.com/docs/cloud/open-cloud) to the [Memory Stores service](https://create.roblox.com/docs/cloud-services/memory-stores).
-  - 🖥️ [NVIDIA](https://www.nvidia.com) in the hardware infrastructure group on the Test Automation Team and then the Security Team as a software engineering intern.
+  - 🖥️ [NVIDIA](https://www.nvidia.com) in the hardware infrastructure group on the Test Automation Team and the Security Team as a software engineering intern.
     - On the Test Automation team, I built a web based platform for CPU and GPU engineers to see the status of all their running tests
     - On the Security team, I implemented observability on the security auditing platform, giving developers more insight onto the platform.
   - 🛰 [NASA Goddard](https://www.nasa.gov/goddard) as a software engineering intern on the [EOSDIS](https://earthdata.nasa.gov/eosdis) team working to create a usage based data discovery tool using machine learning and natural language processing.
@@ -32,7 +32,7 @@ I'm a UC San Diego 🔱 computer engineering grad (BS '24 / MS '25)! I love work
   - 💠 [ACM Dimensions](https://github.com/acmucsd), a conference aimed to exploring the various facets of technology, as both a developer and logistics lead.
 
 
-In my freetime, I like to take [photos](https://www.instagram.com/nish.flicks/), do pottery, visit nature, build mechanical keyboards and hang out and explore new foods!
+In my freetime, I like to take [photos](https://www.instagram.com/nish.flicks/), do pottery, visit nature, play video games, build mechanical keyboards and hang out and explore new foods!
 
 [email](mailto:nishantb1130@gmail.com) • [website](http://nishantbalaji.com/) • [linkedin](https://www.linkedin.com/in/nishantbalaji/) • [devpost](https://devpost.com/nishantbalaji)
 <!-- 
